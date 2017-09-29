@@ -2,7 +2,7 @@
 ## Tarutal Ghosh Mondal 
 ### Report
 * Part A
- * Figure 1:
+ * Figure 1: PyTorch’s nn Package, MNIST Data
   ![image1](https://user-images.githubusercontent.com/31314634/31004189-533117b0-a4c1-11e7-8cb1-fb11f9311cdb.png)
  * Figure 2:
   ![image1](https://user-images.githubusercontent.com/31314634/31004190-53323776-a4c1-11e7-89cd-b37e165b4daa.png)
